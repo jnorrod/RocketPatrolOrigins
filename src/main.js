@@ -5,7 +5,7 @@ let config = {
     height: 480,
     scene: [Menu, Play],
 
-};
+}
 
 let game = new Phaser.Game(config);
 let keyF, keyR, keyLEFT, keyRIGHT;
